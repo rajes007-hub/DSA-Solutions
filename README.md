@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - along with que
 | [0001-two-sum](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - along with que
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
