@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - along with que
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajes007-hub/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajes007-hub/DSA-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->
